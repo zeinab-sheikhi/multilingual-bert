@@ -6,7 +6,7 @@ This project investigates the multilingual capabilities of mBERT by analyzing it
 
 ### Dataset
 
-The primary dataset used in this project is the **Universal Dependencies** (UD) dataset, specifically focusing on the Sequoia treebank. The following languages are included in our analysis:
+The primary dataset used in this project is the **Universal Dependencies** (UD) dataset. The following languages are included in our analysis:
 
 - **Persian**
 - **Arabic**
