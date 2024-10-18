@@ -12,6 +12,7 @@ The primary dataset used in this project is the **Universal Dependencies** (UD) 
 - **Arabic**
 - **French**
 - **English**
+- **Japanese**
 
 ### Key Concepts
 
